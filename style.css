@@ -529,14 +529,14 @@ flex-wrap: wrap;
   background-size: contain;    
 }
 .pest2{
-  background-image: url("..voles-pest-control-Edmonton.webp"); 
+  background-image: url("/images/voles-pest-control-Edmonton.webp"); 
   width: 100%;
   height: 170px; 
   background-repeat: no-repeat;
   background-size: contain;
  }
 .pest3{
-  background-image: url("images/Pocket-gopher-control.webp");   
+  background-image: url("/images/Pocket-gopher-control.webp");   
   width: 100%;
   height: 170px; 
   background-repeat: no-repeat;
