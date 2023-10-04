@@ -1,4 +1,4 @@
-﻿
+
 * Default setting of the html style */
 
 /* ALL CSS ---------------------------------------------------------------------------ALL CSS*/
@@ -216,7 +216,7 @@ nav li{
   align-items: center;
   justify-items: center;
   justify-content: center;
-  background-image: url("/images/Edmonton-city-view.webp");
+  background-image: url("images/Edmonton-city-view.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-color: black;
@@ -522,21 +522,21 @@ flex-wrap: wrap;
   width: 90%;  
 }
 .pest1{
-  background-image: url("/images/mice-control-Edmonton2.webp");
+  background-image: url("images/mice-control-Edmonton2.webp");
   width: 100%;
   height: 170px; 
   background-repeat: no-repeat;
   background-size: contain;    
 }
 .pest2{
-  background-image: url("/images/voles-pest-control-Edmonton.webp"); 
+  background-image: url("images/voles-pest-control-Edmonton.webp"); 
   width: 100%;
   height: 170px; 
   background-repeat: no-repeat;
   background-size: contain;
  }
 .pest3{
-  background-image: url("/images/Pocket-gopher-control.webp");   
+  background-image: url("images/Pocket-gopher-control.webp");   
   width: 100%;
   height: 170px; 
   background-repeat: no-repeat;
