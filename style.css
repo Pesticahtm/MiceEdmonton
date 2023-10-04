@@ -216,7 +216,7 @@ nav li{
   align-items: center;
   justify-items: center;
   justify-content: center;
-  background-image: url(".images/Edmonton-city-view.webp");
+  background-image: url("/images/Edmonton-city-view.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-color: black;
